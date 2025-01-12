@@ -1,0 +1,9 @@
+<resources>
+<color name="primaryColor">#4D8B31</color><!--curva_color-->
+<color name="primaryLightColor">#FFC800</color><!--point_color-->
+<color name="secondaryColor">#FF8427</color><!--axis_color--><!--spinbox_color-->
+<color name="secondaryLightColor">#1E212B</color><!--frame_color-->
+<color name="secondaryDarkColor">#1E212B</color> <!--face_color--><!--bg-->
+<color name="primaryTextColor">#52528C</color>
+<color name="secondaryTextColor">#D43015</color><!--text_color-->
+</resources>

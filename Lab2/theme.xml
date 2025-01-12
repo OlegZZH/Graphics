@@ -1,0 +1,10 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+<color name="primaryColor">#01F0A8</color><!--curva_color-->
+<color name="primaryLightColor">#F7ACCF</color><!--point_color-->
+<color name="secondaryColor">#5B6A75</color><!--axis_color-->
+<color name="secondaryLightColor">#FFFBFA</color>
+<color name="secondaryDarkColor">#2F323A</color> <!--face_color-->
+<color name="primaryTextColor">#52528C</color>
+<color name="secondaryTextColor">#52528C</color>
+</resources>
